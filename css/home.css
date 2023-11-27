@@ -134,6 +134,7 @@ img {
     background-color: #736E62;
     padding-top: 30px;
     padding-bottom: 50px;
+    display: none;
   }
 
   .toggle-menu-button {
@@ -148,7 +149,6 @@ img {
     border: none;
     border-radius: 0;
     outline: none;
-    display: none;
   }
 
   .header-site-menu.is-show {
